@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/pSDbnjHRde.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/pSDbnjHRde.gif' />
 
 GIF created with [recordit](recordit.co/pSDbnjHRde.gif).
 
@@ -33,7 +33,7 @@ Could have done better, due to unavailability of Mac systems it was designed in 
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+        http:https://recordit.co/pSDbnjHRde.gif' title='Video Walkthrough' width='' alt='Video Walkthrough//www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
