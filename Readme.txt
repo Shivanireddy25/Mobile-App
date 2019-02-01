@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='recordit.co/pSDbnjHRde.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/pSDbnjHRde.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [recordit](recordit.co/pSDbnjHRde.gif).
 
